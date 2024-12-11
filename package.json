@@ -1,0 +1,9 @@
+{
+  "name": "generateur-motdepasse",
+  "version": "1.0.0",
+  "description": "Un module pour générer des mots de passe aléatoires sécurisés.",
+  "main": "index.js",
+  "author": "VotreNom",
+  "keywords": ["motdepasse", "sécurité", "générateur"],
+  "license": "MIT"
+}
